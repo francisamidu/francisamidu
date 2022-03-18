@@ -21,6 +21,7 @@
   </br></br></br>
 ### About me
 - 🔭 I’m currently more into the **Web Development**
+- 🔭 I'm currently learning **React Native for Android App Dev**
 - 🌱 I’m currently learning **Blockchain technologies**
 - 👯 I’m looking to collaborate on: **Developing and fun projects**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
