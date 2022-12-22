@@ -11,7 +11,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?for-the-badge&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
@@ -22,11 +22,10 @@
 - 🔭 I write elegant and clean code for a living
 - 🔭 I'm primarily a Frontend dev but on my good days fullstack is my cup of tea
 - 🔭 On a normal day I use **React Native for Android App Dev** | **Tailwind Css for Styling** | **React for Frontend** | **Node.js for Backend**
+- 🔭 I plan to work on projects that include **Firebase**, **Svelte**, **React Native** and **Solidity** till the day i collapse
 
 
 #### *Working on a fun web3 projects with bright and like-minded people is what i yearn for!*
-
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <br/>
 
