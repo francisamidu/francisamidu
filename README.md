@@ -6,29 +6,27 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React-Native-333333?style=flat&logo=react-native)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?for-the-badge&logo=mongodb)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   
   </br></br></br>
 ### About me
 - 🔭 I write elegant and clean code for a living
 - 🔭 I'm primarily a Frontend dev but on my good days fullstack is my cup of tea
-- 🔭 I'm currently learning **React Native for Android App Dev**
-- 🌱 I’m currently learning **Blockchain technologies**
-- 👯 I’m looking to collaborate on: **Developing and fun projects**
-- 🤔 I’m looking for help with **again Open Source. This is really fun.**
+- 🔭 On a normal day I use **React Native for Android App Dev** | **Tailwind Css for Styling** | **React for Frontend** | **Node.js for Backend**
 
 
-# *I am willing to collaborate as a team player building better code.*
+# *Working on a team with bright and like-minded people is what i yearn for*
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <br/>
 
