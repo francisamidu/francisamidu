@@ -24,7 +24,7 @@
 - 🔭 On a normal day I use **React Native for Android App Dev** | **Tailwind Css for Styling** | **React for Frontend** | **Node.js for Backend**
 
 
-# *Working on a team with bright and like-minded people is what i yearn for*
+#### *Working on a fun web3 projects with bright and like-minded people is what i yearn for!*
 
 <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
