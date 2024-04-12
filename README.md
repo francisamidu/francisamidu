@@ -2,7 +2,7 @@
 ### Francis Amidu - Healthcare Data Analyst | Web Developer | NLP Engineer
 Weaving data, web, and AI into elegant solutions that ignite innovation
 
-[![Linkedin Badge](https://img.shields.io/badge/-Francis_Amidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-amidu-50b6ba16b/)](https://www.linkedin.com/in/francis-amidu-50b6ba16b) [![Gmail Badge](https://img.shields.io/badge/-francisamidu124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisamidu124@gmail.com)](mailto:francisamidu124@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Francis_Amidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-amidu-data-officer/)](https://www.linkedin.com/in/francis-amidu-data-officer) [![Gmail Badge](https://img.shields.io/badge/-francisamidu124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisamidu124@gmail.com)](mailto:francisamidu124@gmail.com)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
