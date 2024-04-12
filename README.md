@@ -12,6 +12,9 @@ Weaving data, web, and AI into elegant solutions that ignite innovation
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   
@@ -33,6 +36,12 @@ Weaving data, web, and AI into elegant solutions that ignite innovation
 - **E-Health Platform**: Developed using React, Node.js, and MongoDB, facilitating online healthcare services.
 - **Web Scraping Tool**: Python script using BeautifulSoup and Scrapy for gathering medical data from websites.
 -->
+### Tools
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+ 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  
 ### Interests
 - Exploring AI applications in healthcare for improving patient care.
 - Leveraging web development skills to create innovative solutions for healthcare challenges.
