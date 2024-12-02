@@ -1,56 +1,34 @@
+<h1 align="center">Francis Amidu -> Healthcare Data Nerd</h1>
+<h3 align="center">Turning chaotic data into stories that drive decision making</h3>
 
-### Francis Amidu - Healthcare Data Analyst | Web Developer | NLP Engineer
-Weaving data, web, and AI into elegant solutions that ignite innovation
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=francisamidu&label=Profile%20views&color=0e75b6&style=flat" alt="francisamidu" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Francis_Amidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-amidu-data-officer/)](https://www.linkedin.com/in/francis-amidu-data-officer) [![Gmail Badge](https://img.shields.io/badge/-francisamidu124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisamidu124@gmail.com)](mailto:francisamidu124@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francisamidu" alt="francisamidu" /></a> </p>
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
-  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  
-  </br></br></br>
 ### About Me
 - 👨‍💻 Transforming global health through data insights is my mission.
 - 💡 Proficient in SQL, Excel, Tableau, Python, and AI for healthcare data analytics.
-- 🌐 Skilled in HTML, CSS, JavaScript, React, and Node.js for web development.
 - 📊 Experienced in web scraping using BeautifulSoup and Scrapy.
 - 🧠 Interested in Natural Language Processing (NLP) for personalized fine-tuning.
+- 🌐 My portfolio https://www.datascienceportfol.io/francisamidu124
 
-### Skills
-- Data Analytics: SQL, Excel, Tableau, Python (including NLP)
-- Web Development: HTML, CSS, JavaScript (React), Node.js
-- Web Scraping: BeautifulSoup, Scrapy
-<!--
-### Projects
-- **Healthcare Data Analytics Dashboard**: Built with Tableau, showcasing insights into global health trends.
-- **E-Health Platform**: Developed using React, Node.js, and MongoDB, facilitating online healthcare services.
-- **Web Scraping Tool**: Python script using BeautifulSoup and Scrapy for gathering medical data from websites.
--->
-### Tools
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
- 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  
-### Interests
+### Connect with me:
+<p align="left">
+<a href="https://twitter.com/iamfrancisamidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FrancisAmidu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francis-amidu-data-officer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisamidu" height="30" width="40" /></a>
+</p>
+
+### Languages and Tools
+<p align="left"> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://files.brandlogos.net/zip/nAMr39DXwW/microsoft-excel-logo-sfasfh.svg" alt="git" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> </a> <a href="https://www.tableau.com/products/tableau" target="_blank" rel="noreferrer"> <img src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2023/09/Tableau-From-Salesforce-Logo-COLOR-1.png" alt="Tableau" width="60" height="60"/> </a></p>
+
+### Featured Projects
+
+- IMDB Movie Data Cleaning: https://github.com/francisamidu/IMDB-Data-Cleaning-Project
+- Cosmetic Sales Dashboard: https://github.com/francisamidu/cosmetic-sales-excel-dashboard
+
+### What lies ahead
 - Exploring AI applications in healthcare for improving patient care.
 - Leveraging web development skills to create innovative solutions for healthcare challenges.
 - Investigating NLP techniques for personalized healthcare recommendations.
 
-
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisamidu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisamidu&theme=buefy&layout=compact" />
-</a>
+Wanna talk about a project or collaboration? Hit me at francisamidu124@gmail.com
