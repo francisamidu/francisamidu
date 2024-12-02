@@ -1,10 +1,6 @@
 <h1 align="center">Francis Amidu -> Healthcare Data Nerd</h1>
 <h3 align="center">Turning chaotic data into stories that drive decision making</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francisamidu&label=Profile%20views&color=0e75b6&style=flat" alt="francisamidu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francisamidu" alt="francisamidu" /></a> </p>
-
 ### About Me
 - 👨‍💻 Transforming global health through data insights is my mission.
 - 💡 Proficient in SQL, Excel, Tableau, Python, and AI for healthcare data analytics.
