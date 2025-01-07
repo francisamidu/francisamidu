@@ -3,7 +3,7 @@
 
 ### About Me
 - 👨‍💻 I empower businesses by transforming complex problems into scalable web applications.
-- 💡 Proficient in **React**, **TypeScript**, and modern frontend tools like **Styled Components** and **Webpack**.
+- 💡 Proficient in **React**, **TypeScript**, and modern frontend tools like **TailwindCss**, **Vite** and **Nextjs**.
 - 🎯 Experienced in creating reusable components that enhance development speed by 20%.
 - 📊 Skilled in building responsive designs, improving user engagement by delivering intuitive and high-performing interfaces.
 - 🤝 Passionate about collaborating with cross-functional teams to deliver impactful solutions on time.
