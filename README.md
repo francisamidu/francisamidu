@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 </a>
 <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.solidjs.com/assets/logo.svg" alt="SolidJS" width="60" height="60"/>
+  <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" alt="SolidJS" width="60" height="60"/>
 </a>
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
   <img src="https://bun.sh/logo.svg" alt="Bun" width="60" height="60"/>
