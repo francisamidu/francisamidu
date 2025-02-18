@@ -60,4 +60,4 @@
 ---
 
 ### 💡 Performance Mantra
-*"Every millisecond matters. Optimize aggressively, deliver excellence."*
+*"If it loads in 5s its not fast enough"*
